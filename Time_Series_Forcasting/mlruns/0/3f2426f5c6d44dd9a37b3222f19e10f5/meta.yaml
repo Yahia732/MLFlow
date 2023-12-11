@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yahia.sedki/PycharmProjects/Time_Series_Forcasting/mlruns/0/3f2426f5c6d44dd9a37b3222f19e10f5/artifacts
+end_time: 1702298190728
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f2426f5c6d44dd9a37b3222f19e10f5
+run_name: '43'
+run_uuid: 3f2426f5c6d44dd9a37b3222f19e10f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702298185824
+status: 3
+tags: []
+user_id: yahia.sedki
